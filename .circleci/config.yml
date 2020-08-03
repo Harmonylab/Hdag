@@ -30,3 +30,4 @@ jobs:
 
       # run tests!
       - run: yarn ava --timeout=60s --concurrency=1
+      
