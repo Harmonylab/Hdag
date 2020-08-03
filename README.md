@@ -4,5 +4,6 @@ DAG (Directed Acyclic Graph) is a directed acyclic graph. It was originally a co
 2.	Optimize ledger data storage components: DAG technology processing performance strongly depends on the computing power of ledger data storage components for graph operations. Existing components cannot support large-scale graph operations. We will choose based on the requirements for graph operations and different node types. Appropriate graph database to obtain better processing performance;
 3.	Establish a new witness consensus mechanism: At present, the witness node is too centralized and lacks an incentive mechanism. The witness node pool will be introduced and motivated, and users will vote to select a new witness node;
 4.	Support for Turing-complete smart contracts: On the basis of existing scripted non-Turing-complete smart contracts, introduce new secure computing virtual containers to support Turing-complete smart contracts.
+
 As an emerging blockchain technology, DAG technology is still in the stage of rapid development and iterative innovation. HarmonyDAG will actively promote the development and application of DAG technology to build a safer and more efficient value exchange network.
 
