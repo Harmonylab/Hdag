@@ -1,0 +1,28 @@
+{
+  "name": "harmonydag-witness",
+  "description": "Harmonydag witness",
+  "author": "Harmonydag",
+  "version": "0.1.7",
+  "main": "start.js",
+  "keywords": [
+    "witness",
+    "harmonydag",
+    "harmonydag"
+  ],
+  "license": "MIT",
+  "repository": {
+    "url": "git://github.com/harmonylab/hag.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/harmonylab/hag/issues"
+  },
+  "browser": {
+    "request": "browser-request",
+    "secp256k1": "secp256k1/js"
+  },
+  "dependencies": {
+    "ocore": "git+https://github.com/harmonylab/hag.git",
+    "headless-obyte": "git+https://github.com/harmonylab/hag.git"
+  }
+}
